@@ -1,0 +1,4 @@
+Video_Name,Frame_Label,Frame_Prediction
+./test_images/manipulated_sequences/Face2Face/raw/frames/new_original_video,0,0.6567707061767578
+./test_images/manipulated_sequences/Deepfakes/raw/frames/183_253 copy,1,0.9999843835830688
+./test_images/original_sequences/youtube/raw/frames/WhatsApp Video 2024-12-04 at 11.57.17,0,0.024556338787078857
